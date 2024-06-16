@@ -1,2 +1,1 @@
-#!/bin/bash
-not empty
+alx_be_shell
